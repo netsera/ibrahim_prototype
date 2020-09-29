@@ -2,7 +2,7 @@
   "posts": [
     { "id": 1, "boat": "Post 1" , "boat_type": "yatch" , "usage": "2" },
     { "id": 2, "boat": "Post 2" , "boat_type": "yatch" , "usage": "2" },
-    { "id": 3, "boat": "Post 3" , "boat_type": "yatch" , "usage": "2" },
+    { "id": 3, "boat": "Post 3" , "boat_type": "yatch" , "usage": "2" }
   ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
