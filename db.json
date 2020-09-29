@@ -1,0 +1,25 @@
+{
+  "posts": [
+    { "id": 1, "title": "ibrahim", "author": "ibrahim" }
+     { "id": 1, "title": "ibrahim", "author": "ibrahim" }
+      { "id": 1, "title": "ibrahim", "author": "ibrahim" }
+
+  ],
+  "comments": [
+    { "id": 1, "body": "some comment", "postId": 1 }
+    { "id": 1, "body": "some comment", "postId": 1 }
+  ],
+   "boats": [
+    { "id": 1, "title": "ibrahim", "author": "ibrahim" }
+     { "id": 1, "title": "ibrahim", "author": "ibrahim" }
+      { "id": 1, "title": "ibrahim", "author": "ibrahim" }
+
+  ], 
+  "users": [
+    { "id": 1, "title": "ibrahim", "author": "ibrahim" }
+     { "id": 1, "title": "ibrahim", "author": "ibrahim" }
+      { "id": 1, "title": "ibrahim", "author": "ibrahim" }
+
+  ],
+  "profile": { "name": "ibrahim" }
+}
